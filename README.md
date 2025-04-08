@@ -1,6 +1,6 @@
 ## Olá seja Bem-vindo ao meu GitHub, me chamo Mateus.
 
-# Sobre mim
+## Sobre
 - Atuamente faço parte da equipe da MadeinWeb como desenvolvedor Front-End.
 - Estou estudando para aperfeiçoar minhas skills no front-end e nos frameworks como react, vue e angular. Focando sempre em melhorar a usabilidade dos aplicativos e entregar uma experiência melhor para os usuários.
 -  Tenho colaborado com a equipe da JBS para criação de projetos internos para área agropecuária, criando dashboards web e realizando manutenções em alguns sistemas feitos com aspnet
